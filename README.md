@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhusoodanacharya
 - 👀 I’m interested in Softwere development
-- 🌱 I’m good at Web Development
+- 🌱 I’m good at Web Development and Love Python
 - 💞️ I’m looking to collaborate on any topics related to application development
 - 📫 How to reach me mail me to madhusoodanacharya89@gmail.com
 
